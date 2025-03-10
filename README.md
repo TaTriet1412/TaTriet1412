@@ -1,5 +1,6 @@
 # 💫 About Me:
-Tôi là một sinh viên trường đại học Tôn Đức Thắng <br>
+Một sinh viên trường đại học Tôn Đức Thắng <br>
+Thích tò mò, vọc code và tìm hiểu công nghệ mới, xu hướng thế giới, bla bla... <br>
 
 
 ## 🌐 Socials:
