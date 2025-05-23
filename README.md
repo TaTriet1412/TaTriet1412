@@ -1,6 +1,7 @@
 # 💫 About Me:
-Một sinh viên trường đại học Tôn Đức Thắng <br>
-Thích tò mò, vọc code và tìm hiểu công nghệ mới, xu hướng thế giới, bla bla... <br>
+Một sinh viên đến từ trường đại học Tôn Đức Thắng <br>
+Thích tò mò, tối ưu code và tìm hiểu công nghệ mới, xu hướng thế giới, các mô hình cũng như cộng đồng của các dev để phát triển tiềm năng bản thân trong lĩnh vực công nghệ thông tin. 
+Sẵn sàng cho các dự án thực tế và thiết kế hệ thống sát với nhu cầu của nghiệp vụ được yêu cầu<br>
 
 
 ## 🌐 Socials:
